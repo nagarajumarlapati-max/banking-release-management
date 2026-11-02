@@ -1,0 +1,4 @@
+notification.service=enabled
+notification.type=SMS
+notification.retry=3
+notification.timeout=30
